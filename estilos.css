@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary{
+    background-color: black !important;
+}
+
+#aplogo{
+    height: 60px;
+}
+
+ul.navbar-nav  li.nav-item a.nav-link{
+    color: white;
+    position: relative;
+    left: 412px;
+    margin: 15px;
+}
+
+
+.banner{
+    background-image: url(./FrontEnd/img/GettyImages-1314656208.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+    opacity: 0.8;
+}
+
+
+.banner h1{
+    color: white;
+    
+}
+.banner p{
+    font-size: 20px;
+    color: white;
+    
+}
+
+.title{
+    font-size: 60px;
+    font-weight: 700px;
+}
+
+ul.redes-sociales li#ig{
+    color: red;
+    position: fixed;
+    top: 720px;
+    left: 30px;
+}
+
+ul.redes-sociales li#linkedin{
+    color: red;
+    position: fixed;
+    top: 760px;
+    left: 30px;
+}
+
+.card h3{
+    color: white;
+}
+
+div.container{
+    color: white;
+}
+
+
+.container-usuario{
+    margin-top: 100px;
+    display: flex;
+    padding: 25px;
+    color: white;
+}
+
+.container-usuario img.usuario{
+    bottom: 60px;
+}
+
+
